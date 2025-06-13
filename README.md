@@ -1,9 +1,7 @@
-===========================================================================
  Script Name : acquire-ollama-port.ps1
  Version     : 1.0
  Author      : Tristen Sinanju - Pangolin Atelier
  Date        : 2025-06-13
-===========================================================================
 
 Purpose:
 --------
@@ -49,5 +47,3 @@ v1.0 (2025-06-13)
     - Supports short and long flags
     - Added verbose logging and help output
     - Added full section comments and thought process documentation
-
-===========================================================================
