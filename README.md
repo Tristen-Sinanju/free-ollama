@@ -1,4 +1,4 @@
- Script Name : acquire-ollama-port.ps1
+ Script Name : free-ollama.ps1
  Version     : 1.0
  Author      : Tristen Sinanju - Pangolin Atelier
  Date        : 2025-06-13
